@@ -1,7 +1,7 @@
-# 📊 중고 거래 시장 데이터를 통한 가격대 별 판매 전략 분석 및 제안
-### Mercari 중고 거래 가격 분석 프로젝트
+# 중고 거래 시장 데이터를 통한 가격대 별 판매 전략 분석 및 제안
+## Mercari 중고 거래 가격 분석 프로젝트
 
-데이터 출처: [Kaggle Mercari Price Suggestion Challenge](https://www.kaggle.com/competitions/mercari-price-suggestion-challenge/overview)
+데이터 출처: https://www.kaggle.com/competitions/mercari-price-suggestion-challenge/overview
 
 ---
 
