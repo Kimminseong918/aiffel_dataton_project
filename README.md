@@ -21,13 +21,13 @@
    - 1,482,535건의 상품 데이터를 사용
    
    <주요 컬럼>
-      name: 상품명
-      item_condition_id: 상품 상태 (1: 최상 ~ 5: 최하)
-      category_name: 카테고리 분류
-      brand_name: 브랜드명
-      price: 판매 가격
-      shipping: 배송비 부담 주체 (1: 판매자, 0: 구매자)
-      item_description: 상품 상세 설명
+      - name: 상품명
+      - item_condition_id: 상품 상태 (1: 최상 ~ 5: 최하)
+      - category_name: 카테고리 분류
+      - brand_name: 브랜드명
+      - price: 판매 가격
+      - shipping: 배송비 부담 주체 (1: 판매자, 0: 구매자)
+      - item_description: 상품 상세 설명
 
    *brand_name: 결측치 'Unknown'으로 대체
    **price==0인 데이터는 삭제
